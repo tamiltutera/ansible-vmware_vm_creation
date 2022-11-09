@@ -1,0 +1,12 @@
+---
+esxi_server: "192.168.56.3"
+esxi_username: "root"
+esxi_password: "admin@123"
+vm_name: "centos_test_vm_0001"
+vm_power_state: "poweredoff"
+vm_guest_id: "centos64guest"
+vm_disk_size: 10
+vm_disk_type: "thin"
+vm_datastore: "datastore1"
+vm_memory_mb: "2048"
+vm_num_cpu: "2"
